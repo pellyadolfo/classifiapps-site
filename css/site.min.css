@@ -2517,3 +2517,14 @@ textarea.w-select {
 #dark-mode-toggle:checked + .toggle::before {
   transform: translateX(30px);
 }
+
+.copyright {
+	margin-top: 15px;
+	font-size: 12px;
+}
+.footer {
+	margin-top: 20px;
+	font-size: 14px;
+	text-align: center;
+	color: #777;
+}
